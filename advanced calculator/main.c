@@ -12,6 +12,7 @@ int main()
     scanf("%lf", &num1);
 
     printf("Your OP:");
+    // the space before the %c is necessary to work 
     scanf(" %c", &op);
 
     printf("Enter second number:");
